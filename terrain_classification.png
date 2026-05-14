@@ -1,0 +1,26 @@
+LunaRover AI — Mission Report
+=======================================================
+  status                      : COMPLETED
+  waypoints_total             : 7
+  waypoints_completed         : 6
+  waypoints_skipped           : 0
+  total_distance_m            : 1715.3
+  total_energy_wh             : 7.39
+  total_science_value         : 41.14
+  mission_duration_s          : 8.88
+  completed_names             : ['RETURN_BASE', 'GOAL', 'RIM-1', 'PLAIN-2', 'PLAIN-1', 'PLAIN-3']
+  skipped_names               : []
+
+Performance Metrics
+-----------------------------------
+  Path Length (cells)         : 418.0
+  Tortuosity                  : 566439359952.249
+  Energy Used (Wh)            : 39.94
+  Solar Offset (Wh)           : 29.7
+  Coverage (%)                : 60.3
+  Frontiers Remaining         : 373.0
+  WPs Completed               : 6.0
+  Science Score               : 41.14
+  m per Wh                    : 14.005
+
+Total wall-clock time : 16.7 s
